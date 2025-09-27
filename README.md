@@ -14,7 +14,7 @@ This repository contains scripts to train, evaluate, and visualize a neural netw
 
 ```bash 
 # clone this repository 
-git clone https://github.com/felipevzps/fun-MNIST.git 
+git clone https://github.com/inteligencia-nao-artificial-INA/MNIST.git
 cd fun-MNIST
 
 # create conda environment
